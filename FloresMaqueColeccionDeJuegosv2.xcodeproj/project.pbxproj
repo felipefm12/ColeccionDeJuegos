@@ -14,6 +14,7 @@
 		B86F63422A15394500EDD3D2 /* FloresMaqueColeccionDeJuegosv2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B86F63402A15394500EDD3D2 /* FloresMaqueColeccionDeJuegosv2.xcdatamodeld */; };
 		B86F63442A15394700EDD3D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B86F63432A15394700EDD3D2 /* Assets.xcassets */; };
 		B86F63472A15394700EDD3D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B86F63452A15394700EDD3D2 /* LaunchScreen.storyboard */; };
+		B86F634F2A1540B000EDD3D2 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86F634E2A1540B000EDD3D2 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B86F63432A15394700EDD3D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B86F63462A15394700EDD3D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B86F63482A15394700EDD3D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B86F634E2A1540B000EDD3D2 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B86F63392A15394500EDD3D2 /* SceneDelegate.swift */,
 				B86F633B2A15394500EDD3D2 /* ViewController.swift */,
 				B86F633D2A15394500EDD3D2 /* Main.storyboard */,
+				B86F634E2A1540B000EDD3D2 /* JuegosViewController.swift */,
 				B86F63432A15394700EDD3D2 /* Assets.xcassets */,
 				B86F63452A15394700EDD3D2 /* LaunchScreen.storyboard */,
 				B86F63482A15394700EDD3D2 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B86F634F2A1540B000EDD3D2 /* JuegosViewController.swift in Sources */,
 				B86F63422A15394500EDD3D2 /* FloresMaqueColeccionDeJuegosv2.xcdatamodeld in Sources */,
 				B86F633C2A15394500EDD3D2 /* ViewController.swift in Sources */,
 				B86F63382A15394500EDD3D2 /* AppDelegate.swift in Sources */,
